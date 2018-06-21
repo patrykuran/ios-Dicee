@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "b777bb34cebfe22df537431464a33f3f"
+build_time: [1527180848, 513652000]
+inputs:
+  "/Users/p.uran/Documents/ios bootcamp/apps/Dicee App/Dicee/Dicee/ViewController.swift": [1523991303, 0]
+  "/Users/p.uran/Documents/ios bootcamp/apps/Dicee App/Dicee/Dicee/AppDelegate.swift": [1523983219, 0]
